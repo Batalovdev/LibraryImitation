@@ -1,0 +1,193 @@
+{
+  "students": [
+    {
+      "name": "Alice",
+      "age": 21,
+      "books": [
+        {
+          "name": "Java Programming",
+          "pubAge": 2015,
+          "authorName": "John Doe"
+        },
+        {
+          "name": "Data Structures",
+          "pubAge": 2018,
+          "authorName": "Jane Smith"
+        },
+        {
+          "name": "Web Development",
+          "pubAge": 2019,
+          "authorName": "Emily Johnson"
+        }
+      ]
+    },
+    {
+      "name": "Bob",
+      "age": 22,
+      "books": [
+        {
+          "name": "Python Basics",
+          "pubAge": 2020,
+          "authorName": "Michael Brown"
+        },
+        {
+          "name": "Database Systems",
+          "pubAge": 2017,
+          "authorName": "Chris Davis"
+        },
+        {
+          "name": "Machine Learning",
+          "pubAge": 2021,
+          "authorName": "Sarah Wilson"
+        }
+      ]
+    },
+    {
+      "name": "Charlie",
+      "age": 23,
+      "books": [
+        {
+          "name": "C++ Primer",
+          "pubAge": 2016,
+          "authorName": "Katherine Taylor"
+        },
+        {
+          "name": "Algorithms Unlocked",
+          "pubAge": 2018,
+          "authorName": "Thomas Anderson"
+        },
+        {
+          "name": "Software Engineering",
+          "pubAge": 2020,
+          "authorName": "Linda Martin"
+        }
+      ]
+    },
+    {
+      "name": "Diana",
+      "age": 20,
+      "books": [
+        {
+          "name": "Web Design",
+          "pubAge": 2019,
+          "authorName": "Alice Brown"
+        },
+        {
+          "name": "Network Security",
+          "pubAge": 2021,
+          "authorName": "Daniel Lee"
+        },
+        {
+          "name": "DevOps Handbook",
+          "pubAge": 2017,
+          "authorName": "Sophia Harris"
+        }
+      ]
+    },
+    {
+      "name": "Ethan",
+      "age": 21,
+      "books": [
+        {
+          "name": "Go Programming",
+          "pubAge": 2020,
+          "authorName": "Matthew Young"
+        },
+        {
+          "name": "Cloud Computing",
+          "pubAge": 2018,
+          "authorName": "Grace Lee"
+        },
+        {
+          "name": "Mobile Apps Development",
+          "pubAge": 2019,
+          "authorName": "Lucas Wright"
+        }
+      ]
+    },
+    {
+      "name": "Fiona",
+      "age": 22,
+      "books": [
+        {
+          "name": "Artificial Intelligence",
+          "pubAge": 2021,
+          "authorName": "Chloe King"
+        },
+        {
+          "name": "Data Mining",
+          "pubAge": 2020,
+          "authorName": "David Scott"
+        },
+        {
+          "name": "Human-Computer Interaction",
+          "pubAge": 2019,
+          "authorName": "Emma Adams"
+        }
+      ]
+    },
+    {
+      "name": "George",
+      "age": 23,
+      "books": [
+        {
+          "name": "Distributed Systems",
+          "pubAge": 2017,
+          "authorName": "Jessica Baker"
+        },
+        {
+          "name": "Blockchain Basics",
+          "pubAge": 2021,
+          "authorName": "Oliver Nelson"
+        },
+        {
+          "name": "Quantum Computing",
+          "pubAge": 2020,
+          "authorName": "Ella Carter"
+        }
+      ]
+    },
+    {
+      "name": "Hannah",
+      "age": 20,
+      "books": [
+        {
+          "name": "Game Development",
+          "pubAge": 2018,
+          "authorName": "James Perez"
+        },
+        {
+          "name": "Visual Studio Code",
+          "pubAge": 2019,
+          "authorName": "Mia Turner"
+        },
+        {
+          "name": "Responsive Web Design",
+          "pubAge": 2020,
+          "authorName": "Noah Phillips"
+        }
+      ]
+    },
+    {
+      "name": "Ian",
+      "age": 21,
+      "books": [
+        {
+          "name": "Mobile Game Development",
+          "pubAge": 2021,
+          "authorName": "Liam Campbell"
+        },
+        {
+          "name": "Cybersecurity Essentials",
+          "pubAge": 2020,
+          "authorName": "Ava Mitchell"
+        },
+        {
+          "name": "Full Stack Development",
+          "pubAge": 2019,
+          "authorName": "Sofia Roberts"
+        }
+      ]
+    }
+  ]
+}
